@@ -1,0 +1,82 @@
+[
+   {
+      "id": 1,
+      "category": "Animal",
+      "price": 50,
+      "name": "Dog",
+      "inStock": 10,
+      "emoji": "🐶"
+   },
+   {
+      "id": 2,
+      "category": "Food",
+      "price": 5,
+      "name": "Apple",
+      "inStock": 20,
+      "emoji": "🍎"
+   },
+   {
+      "id": 3,
+      "category": "Animal",
+      "price": 100,
+      "name": "Cat",
+      "inStock": 0,
+      "emoji": "🐱"
+   },
+   {
+      "id": 4,
+      "category": "Food",
+      "price": 10,
+      "name": "Banana",
+      "inStock": 15,
+      "emoji": "🍌"
+   },
+   {
+      "id": 5,
+      "category": "Animal",
+      "price": 200,
+      "name": "Elephant",
+      "inStock": 5,
+      "emoji": "🐘"
+   },
+   {
+      "id": 6,
+      "category": "Food",
+      "price": 8,
+      "name": "Orange",
+      "inStock": 12,
+      "emoji": "🍊"
+   },
+   {
+      "id": 7,
+      "category": "Animal",
+      "price": 30,
+      "name": "Rabbit",
+      "inStock": 8,
+      "emoji": "🐇"
+   },
+   {
+      "id": 8,
+      "category": "Food",
+      "price": 15,
+      "name": "Strawberry",
+      "inStock": 0,
+      "emoji": "🍓"
+   },
+   {
+      "id": 9,
+      "category": "Animal",
+      "price": 80,
+      "name": "Lion",
+      "inStock": 3,
+      "emoji": "🦁"
+   },
+   {
+      "id": 10,
+      "category": "Food",
+      "price": 6,
+      "name": "Grapes",
+      "inStock": 7,
+      "emoji": "🍇"
+   }
+]
